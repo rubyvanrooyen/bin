@@ -3,8 +3,8 @@ General useful scripts
 
 == Another CASA install script ==
 Installation into Python Virtual Environment
-> virtualenv --system-site-packages venv
-> source venv/bin/activate
+> virtualenv --system-site-packages venv  
+> source venv/bin/activate  
 > mkdir venv/local/casa
 
 Installing CASA
