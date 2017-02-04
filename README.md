@@ -1,7 +1,7 @@
 # bin
 General useful scripts
 
-== Another CASA install script ==
+== Another CASA install script ==  
 Installation into Python Virtual Environment
 > virtualenv --system-site-packages venv  
 > source venv/bin/activate  
